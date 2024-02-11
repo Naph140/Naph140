@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Naph140 Well,call me naaph_kate
+- 👋 Hi,Austine Naphkate
 - 👀 I’m interested in leveraging technology to create innovative solutions and make a positive impact.
 - 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on Open Source Projects
+- 📫 How to reach me :__________
+- 😄 Pronouns: Git 
+- ⚡ Fun fact: "GitHub Profile READMEs," allows you to showcase your projects, skills, or anything else you want visitors to see when they visit your GitHub profile page. 
 
 <!---
 Naph140/Naph140 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
