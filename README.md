@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on Open Source Projects
 
-- 😄 Pronouns: Git 
+- 😄 Pronouns: Him/He
 - ⚡ Fun fact: "GitHub Profile READMEs," allows you to showcase your projects, skills, or anything else you want visitors to see when they visit your GitHub profile page. 
 
 <!---
